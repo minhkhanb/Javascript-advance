@@ -1,0 +1,27 @@
+{
+  "name": "javascript-advance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.ts",
+  "scripts": {
+    "start": "nodemon src/app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhkhanb/Javascript-advance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhkhanb/Javascript-advance/issues"
+  },
+  "homepage": "https://github.com/minhkhanb/Javascript-advance#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "ts-node": "^10.2.0"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
